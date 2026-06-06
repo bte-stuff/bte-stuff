@@ -26,7 +26,7 @@
 
 ```ts
 const operator = {
-  alias:      "bte-stuff",
+  alias:      "Bitte",
   role:       "Full-Stack Developer",
   origin:     "Romania",
   builds:     ["desktop apps", "backends", "automation", "performance tools"],
@@ -73,12 +73,12 @@ const operator = {
 ## ◢ Operations // Projects
 
 ```diff
-+ [ ACTIVE ]  Project "PHANTOM"
++ [ ACTIVE ]  FrameLabs   —   framelabs.ro
 ```
-> 🛰️ A commercial **Windows optimization & performance suite** for gamers — built end-to-end, solo.
+> 🛰️ A commercial **Windows optimization & gaming-performance suite** — built end-to-end, solo.
 > Desktop client, signed-token licensing backend, and a background tuning service.
 > **Stack:** `C# · .NET · WPF · Python · FastAPI · SQLite`
-> `// further details encrypted`
+> 🔗 **[framelabs.ro](https://framelabs.ro)**
 
 ---
 
@@ -86,8 +86,7 @@ const operator = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bte-stuff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a0e14&title_color=00ffa3&icon_color=00ffa3&text_color=c9d1d9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bte-stuff&layout=compact&hide_border=true&bg_color=0a0e14&title_color=00ffa3&text_color=c9d1d9" alt="langs" />
+<img src="https://raw.githubusercontent.com/bte-stuff/bte-stuff/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
 
 <br/>
 
@@ -115,11 +114,11 @@ bash:     fluent   # speaks fluent terminal
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/georgescu-robert-aab658270">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<a href="https://discord.gg/framelabs">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
 </a>
-<a href="mailto:robertbitte73@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a0e14?style=for-the-badge&logo=gmail&logoColor=00ffa3" alt="email" />
+<a href="https://framelabs.ro">
+  <img src="https://img.shields.io/badge/framelabs.ro-00ffa3?style=for-the-badge&logo=googlechrome&logoColor=0a0e14" alt="website" />
 </a>
 
 </div>
