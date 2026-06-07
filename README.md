@@ -74,7 +74,7 @@ const operator = {
 ```diff
 + [ ACTIVE ]  FrameLabs   —   framelabs.ro
 ```
-> 🛰️ A commercial **Windows optimization & gaming-performance suite** — built end-to-end, solo.
+> 🛰️ A commercial **Windows optimization & gaming-performance suite** — built end-to-end.
 > Desktop client, signed-token licensing backend, and a background tuning service.
 > **Stack:** `C# · .NET · WPF · Python · FastAPI · SQLite`
 > 🔗 **[framelabs.ro](https://framelabs.ro)**
