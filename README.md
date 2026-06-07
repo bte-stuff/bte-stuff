@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0a0e14,45:0f3d2e,100:00ff9c&text=%3C%20bte-stuff%20%2F%3E&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Systems%20Tinkerer%20%E2%80%A2%20Romania&descSize=18&descAlignY=56&animation=twinkling" width="100%" alt="header" />
 
 <a href="https://github.com/bte-stuff">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FFA3&center=true&vCenter=true&width=820&height=135&lines=root%40bte-stuff%3A~%23+whoami;%3E+Full-Stack+Developer+%2F%2F+Systems+Tinkerer;%3E+I+build+tools+for+the+gaming+underground;%3E+C%23+%C2%B7+.NET+%C2%B7+Python+%C2%B7+Lua+%C2%B7+PowerShell;%3E+Status%3A+building+in+the+shadows...;%3E+ACCESS+GRANTED+%E2%9C%94" alt="terminal" />
