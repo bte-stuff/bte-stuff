@@ -47,7 +47,7 @@ const operator = {
 
 **⟡ Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,py,lua,js,ts,powershell,bash&perline=8" alt="languages" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,py,js,ts,powershell,bash&perline=8" alt="languages" />
 
 **⟡ Frontend & Design**
 
