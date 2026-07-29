@@ -47,7 +47,7 @@ const operator = {
 
 **⟡ Languages**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,lua,js,ts,powershell,bash&perline=8" alt="languages" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,py,lua,js,ts,powershell,bash&perline=8" alt="languages" />
 
 **⟡ Frontend & Design**
 
@@ -76,7 +76,7 @@ const operator = {
 ```
 > 🛰️ A commercial **Windows optimization & gaming-performance suite** — built end-to-end.
 > Desktop client, signed-token licensing backend, and a background tuning service.
-> **Stack:** `C# · .NET · WPF · Python · FastAPI · SQLite`
+> **Stack:** `C# · C++ · Python · FastAPI · SQLite`
 > 🔗 **[framelabs.ro](https://framelabs.ro)**
 
 ---
